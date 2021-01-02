@@ -1,0 +1,58 @@
+[
+  {
+    "spin_img": "spin",
+    "spin_number": "Collect 25 Spins",
+    "spin_date": "01/01/2021",
+    "spin_time": "11:30PM",
+    "spin_link": "https://bit.ly/3n2A19D"
+  },
+  {
+    "spin_img": "spin",
+    "spin_number": "10 Spins + 1M Coins",
+    "spin_date": "01/01/2021",
+    "spin_time": "11:30PM",
+    "spin_link": "https://bit.ly/350mkBP"
+  },
+  {
+    "spin_img": "coin",
+    "spin_number": "Collect 25 Spins",
+    "spin_date": "01/01/2021",
+    "spin_time": "11:30PM",
+    "spin_link": "http://bit.ly/35313HP"
+  },
+  {
+    "spin_img": "spin_coin",
+    "spin_number": "Collect 25 Spins",
+    "spin_date": "31.12.2020",
+    "spin_time": "11:30PM",
+    "spin_link": "https://bit.ly/38VwxRc"
+  },
+  {
+    "spin_img": "event",
+    "spin_number": "10 Spins + 1M Coins",
+    "spin_date": "31.12.2020",
+    "spin_time": "11:30PM",
+    "spin_link": "https://bit.ly/3aVCY9J"
+  },
+  {
+    "spin_img": "spin",
+    "spin_number": "Collect 25 Spins",
+    "spin_date": "31.12.2020",
+    "spin_time": "11:30PM",
+    "spin_link": "https://bit.ly/34WnxKu"
+  },
+  {
+    "spin_img": "event",
+    "spin_number": "Collect 25 Spins",
+    "spin_date": "31.12.2020",
+    "spin_time": "11:30PM",
+    "spin_link": "https://bit.ly/3pD6jtt"
+  },
+  {
+    "spin_img": "coin",
+    "spin_number": "10 Spins + 1M Coins",
+    "spin_date": "31.12.2020",
+    "spin_time": "11:30PM",
+    "spin_link": "https://bit.ly/3b0pQjw"
+  }
+]
